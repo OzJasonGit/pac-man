@@ -4,6 +4,7 @@
     width: 560px;
     height: 560px;
     border: solid black;
+    border-radius: 5px;
 }
 
 .grid div {
@@ -18,7 +19,7 @@
 }
 
 .wall {
-    background-color: blue;
+    background-color: #2e2e2e;
 }
 
 .power-pellet {
@@ -50,3 +51,79 @@
 .scared-ghost {
     background-color: aquamarine;
 }
+
+
+
+h1 {
+    font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 4rem;
+    color: #efefef;
+}
+
+#CLOCK {
+    font-family: sofia-pro, sans-serif;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 4rem;
+    color: #2e2e2e;
+    text-align: left;
+}
+
+
+#DATE {
+    font-family: sofia-pro, sans-serif;
+    padding-top: 0px;
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2.5rem;
+    color: #2e2e2e;
+    text-align: left;
+}
+
+h3 {
+    font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+    color: #2e2e2e;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+#FT {
+    font-family: sofia-pro, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2rem;
+    color: #2e2e2e;
+}
+
+
+p {
+    font-family: sofia-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1rem;
+    color: #efefef;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+
+span {
+    font-family: sofia-pro, sans-serif;
+    display: inline-block;
+    font-weight: 700;
+    font-size: 50px;
+    font-size: 3rem;
+    color: #2e2e2e;
+}
+
+/******************************FONTS************************************************************************/
